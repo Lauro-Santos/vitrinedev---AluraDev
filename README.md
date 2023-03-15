@@ -7,7 +7,7 @@ Esse projeto foi proposto pela equipe de instrutores da Alura, como um desafio p
 | :sparkles: Nome        | **AluraDev**
 | :label: Tecnologias | html, css, javascript
 | :rocket: URL         | https://alura-dev-iota.vercel.app/
-| :fire: Desafio     | #AluraChallenges
+| :fire: Desafio     | https://www.alura.com.br/challenges/front-end/semana-01-do-figma-ao-html-e-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/Lauro-Santos/Vitrine-Dev---AluraDev/master/assets/img/Captura%20de%20tela%201.jpg#vitrinedev) ![](https://raw.githubusercontent.com/Lauro-Santos/Vitrine-Dev---AluraDev/master/assets/img/Captura%20de%20tela%202.jpg#vitrinedev) ![](https://raw.githubusercontent.com/Lauro-Santos/Vitrine-Dev---AluraDev/master/assets/img/Captura%20de%20tela%203.jpg#vitrinedev)
