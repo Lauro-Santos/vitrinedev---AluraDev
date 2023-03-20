@@ -7,7 +7,7 @@ Esse projeto foi proposto pela equipe de instrutores da Alura, como um desafio p
 | :sparkles: Nome        | **AluraDev**
 | :label: Tecnologias | html, css, javascript
 | :rocket: URL         | https://alura-dev-iota.vercel.app/
-| :fire: Desafio     | https://www.alura.com.br/challenges/front-end/semana-01-do-figma-ao-html-e-css
+| :fire: Desafio     | #AluraChallenges
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/Lauro-Santos/Vitrine-Dev---AluraDev/master/assets/img/Captura%20de%20tela%201.jpg#vitrinedev) ![](https://raw.githubusercontent.com/Lauro-Santos/Vitrine-Dev---AluraDev/master/assets/img/Captura%20de%20tela%202.jpg#vitrinedev) ![](https://raw.githubusercontent.com/Lauro-Santos/Vitrine-Dev---AluraDev/master/assets/img/Captura%20de%20tela%203.jpg#vitrinedev)
@@ -21,6 +21,12 @@ Neste projeto foi proposto por meio de um desafio a construção do front de uma
 Um produtor de conteúdo de programação solicitou a construção de um editor de texto online para postar trechos de códigos em suas redes sociais. Para ele, o editor precisa ter um layout acessível, simples, bonito e funcional, para que ele possa, inclusive, compartilhar a ferramenta com seus seguidores e seguidoras.
 
 As principais funcionalidades pedidas são: um campo para selecionar a linguagem a ser escrita; um campo de texto para escrever o código em si; e um botão para visualização deste código com o sintaxe highlight com um tema bem bonito. É importante que esse projeto seja escalável, ao ponto que, se for necessário adicionar alguma funcionalidade (feature), seja simples fazê-la. Como esse editor é online, é de extrema importância que ele seja responsivo.
+
+### Implementações adicionais
+Foi adicionado uma função pra exportar o código estilizado no formato 'png', utilizando modulo node.js, a biblioteca "dom-to-image".
+
+![](https://raw.githubusercontent.com/Lauro-Santos/AluraDev/master/assets/img/Captura%20de%20tela%202023-03-20%20123553.jpg#vitrinedev)
+![](https://raw.githubusercontent.com/Lauro-Santos/AluraDev/master/assets/img/code.png#vitrinedev)
 
 ## Deploy
 
